@@ -1,3 +1,3 @@
 # Prueba1
-<image src="https://www.canva.com/design/DAGlYqwmoeo/CGY8pYS6uGQe3mYz9VmE7w/view">
+<image src="/Users/anuariopas/Downloads/Header NewMustang.png">
 Bitácora de desarrollo para competencia de WRO 2025
